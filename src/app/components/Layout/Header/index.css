@@ -1,0 +1,27 @@
+.Header--tittle-box {
+  height: 60px;
+  background-color: rgb(13, 74, 102);
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.Header--lng-select {
+  position: absolute;
+  right: 20px;
+}
+
+.Header--tittle-container {
+  border: 4px solid black;
+  height: 190px;
+  width: 60%;
+  text-align: center;
+  position: absolute;
+  top: 35px;
+}
+.Header--tittle-container-spec {
+  background-color: black;
+  color: white;
+  width: 60%;
+  margin: 0 auto;
+}

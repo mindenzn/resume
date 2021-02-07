@@ -1,0 +1,8 @@
+.Header--select {
+  outline: none;
+  padding: 3px;
+  color: white;
+  font-size: bold;
+  border: 2px solid gray;
+  background-color: rgb(13, 74, 102);
+}

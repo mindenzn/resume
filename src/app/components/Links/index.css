@@ -1,0 +1,18 @@
+.Icon {
+  height: 30px;
+  width: 30px;
+  object-fit: contain;
+  margin: 2px 20px 2px 2px;
+  opacity: 0.7;
+}
+.Icon:hover {
+  opacity: 1;
+}
+.Icon--container {
+  display: flex;
+  align-items: center;
+}
+.Bold {
+  width: 250px;
+  font-weight: bold;
+}

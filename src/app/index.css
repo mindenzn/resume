@@ -1,0 +1,8 @@
+.App {
+  box-sizing: border-box;
+  opacity: 0.9;
+  background-color: white;
+  max-width: 1080px;
+  margin: 0 auto;
+  box-shadow: 0px 0px 20px 2px white;
+}

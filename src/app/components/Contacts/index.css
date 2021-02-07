@@ -1,0 +1,23 @@
+.Footer--container-contacts {
+  background-color: black;
+  color: white;
+  width: 250px;
+}
+.Footer--containner-contatcs-linksBox {
+  border: 1px solid rgb(13, 74, 102);
+  ;
+  margin: 10px 0;
+  padding: 5px 0;
+  transition: 0.7s;
+}
+.Footer--containner-contatcs-linksBox:hover {
+  cursor: pointer;
+  background-color: rgb(13, 74, 102);
+  transition: 0.7s;
+}
+
+.Footer--container-contatcs-linkBox-links {
+  outline-style: none;
+  color: black;
+  text-decoration: none;
+}

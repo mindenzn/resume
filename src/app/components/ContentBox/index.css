@@ -1,0 +1,14 @@
+.Main--container-tittle {
+  border-bottom: 3px solid rgb(112, 112, 112);
+  position: relative;
+}
+.Main--container-line {
+  position: absolute;
+  width: 70px;
+  background-color: rgb(13, 74, 102);
+  height: 10px;
+  top: 40px;
+}
+.Main--container-heroBox {
+  padding: 5px;
+}

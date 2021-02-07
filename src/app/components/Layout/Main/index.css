@@ -1,0 +1,45 @@
+.Main {
+  margin-top: 200px;
+}
+.Main--container {
+  display: flex;
+}
+.Main--container-links {
+  width: 35%;
+}
+.Main--container-about {
+  width: 65%;
+}
+.Main--container-textBold {
+  width: 250px;
+  font-weight: bold;
+}
+.Main--container-hero {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 70px;
+}
+.Main--container-education {
+  border-bottom: 3px solid rgb(112, 112, 112);
+}
+
+.Main--container-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 20px;
+  justify-items: center;
+  text-align: center;
+  border-bottom: 3px solid rgb(112, 112, 112);
+}
+.Main--colors {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.Main-colors-title {
+  display: flex;
+  height: 30px;
+  width: 200px;
+  font-size: 16px;
+  padding: 5px;
+}

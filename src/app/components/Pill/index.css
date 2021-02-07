@@ -1,0 +1,27 @@
+.green {
+  display: block;
+  border-radius: 11px;
+  padding: 5px;
+  display: inline;
+  background-color: #7abcac;
+}
+.red {
+  display: block;
+  border-radius: 11px;
+  padding: 5px;
+  background-color: #c29486;
+  display: inline;
+}
+.yellow {
+  display: block;
+  border-radius: 11px;
+  padding: 5px;
+  background-color: #d8da79;
+  display: inline;
+}
+.Main--container-pillBox {
+  height: 30px;
+  width: 300px;
+  margin: 25px 0;
+  font-weight: bold;
+}
