@@ -53,7 +53,7 @@ export default {
               "Nature of work - jobs organization, distribution, work safety, work performance assurance.",
           },
           job3: {
-            title: "Manager - Main Storekeeper",
+            title: "Manager - Technical",
             text:
               "Nature of work - assortment accounting, ordering goods, sales of goods, coordination of equipment, ensuring communications.",
           },
@@ -122,7 +122,7 @@ export default {
           job2: {
             title: "Pamainos viršininkas",
             text:
-              "Darbo pobūdis- darbo organizavimas paskirstymas, darbų sauga, darbų atlikimo užtikrinimas. ",
+              "Darbo pobūdis- darbo organizavimas,darbų paskirstymas, darbų sauga, darbų atlikimo užtikrinimas, įrangos priežiūra. ",
           },
           job3: {
             title: "Vadybininkas - Technikas",
